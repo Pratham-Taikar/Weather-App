@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let temperature = document.getElementById("temperature");
   let description = document.getElementById("description");
 
-  const API_KEY = "ac60d0457ecf5529efb7a3134ab7c727";
+  const API_KEY = <>Your Api Key</>;
 
   document.getElementById("weatherbyLoc").addEventListener("click", () => {
     navigator.geolocation.getCurrentPosition((position) => {

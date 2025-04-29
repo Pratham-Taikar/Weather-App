@@ -53,6 +53,10 @@ The **Weather Tracker App** is a web application designed to provide users with 
 const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
 ```
 
+```NOTE : There are videos available in the videos folder, after applying them the website will work finely
+
+```
+
 ### Forecast
 
 - **Hourly**: Shows the weather for the next 12 hours.
