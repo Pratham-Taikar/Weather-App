@@ -4,7 +4,7 @@
 
 The **Weather Tracker App** is a web application designed to provide users with real-time weather information. It offers various features such as hourly and weekly forecasts, weather condition icons and animations, geolocation, data visualization, dynamic backgrounds, and more.
 
-## Here's the Live Demo of the app - https://lucky-moxie-f24aaf.netlify.app/
+Will be sharing the live demo soon..
 
 ### Features
 
