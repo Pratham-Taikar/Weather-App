@@ -55,9 +55,7 @@ Will be sharing the live demo soon..
 const apiKey = "YOUR_API_KEY"; // Replace with your actual API key
 ```
 
-```NOTE : There are videos available in the videos folder, after applying them the website will work finely
-
-```
+NOTE : There are videos available in the videos folder, after applying them the website will work finely
 
 ### Forecast
 
